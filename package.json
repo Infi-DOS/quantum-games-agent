@@ -1,0 +1,11 @@
+{
+  "name": "agent-1.0",
+  "version": "1.0.7",
+  "private": true,
+  "description": "Agent 1.0 (Christos & Athanasios): one URL for Quantum TiqTaqToe and Quantum Cheqqers",
+  "scripts": {
+    "start": "node ai-server.js"
+  },
+  "engines": { "node": ">=18" },
+  "dependencies": { "@quantumplayed/quantum-game-engine": "1.0.3" }
+}

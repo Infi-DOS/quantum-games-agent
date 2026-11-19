@@ -1,0 +1,5 @@
+{
+ "network": "prior-network.json",
+ "weight": 1,
+ "widening": 1
+}
