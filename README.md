@@ -1,4 +1,4 @@
-# Agent 1.0: Christos & Athanasios
+# Agent 1.0.7: Christos & Athanasios
 
 One URL plays both games. `POST /move` answers Quantum TiqTaqToe (players X and O) and Quantum Cheqqers (players white and black).
 
